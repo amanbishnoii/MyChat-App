@@ -1,1 +1,7 @@
-live demo link https://my-chat-app-cyan-three.vercel.app
+# Live Demo
+https://my-chat-app-cyan-three.vercel.app
+
+# Features
+- Real-time chat
+- Authentication
+- Image sharing
