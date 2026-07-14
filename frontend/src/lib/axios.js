@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const Instance = axios.create({
-    baseURL: import.meta.env.MODE==="development"?'http://localhost:8081/api/':"/api",
+    baseURL: 'https://mychat-app-0ia8.onrender.com/api',
     withCredentials: true,
 });
 
